@@ -3,6 +3,7 @@ html{
   font-family: "Inter", sans-serif;
 }   
 
+
 header {
   border: 1px solid red;
   height: 152px;
@@ -138,10 +139,10 @@ footer {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-  
-/* @media (max-width: 600px){
+ 
+@media (max-width: 425px){
   .product-container{
     grid-template-columns: 1fr;
   }
-} */
+} 
   
